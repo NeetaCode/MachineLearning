@@ -1,5 +1,5 @@
 📘 ANN_Sentiment_Analysis.ipynb:
-**********************************************************************************************************************************
+************************************************************************************************************************************
 This notebook explores a series of deep learning models for sentiment analysis, focusing on progressively refining architectures and evaluating their performance. The journey spans from simple RNNs to more advanced recurrent structures and tokenization techniques using BERT.
 
 🔧 1. Initial RNN Model with ReLU Activation
