@@ -4,7 +4,7 @@ This notebook explores a series of deep learning models for sentiment analysis, 
 
 🔧 1. Initial RNN Model with ReLU Activation
 •	Architecture: Embedding → SimpleRNN(32, activation='relu') → Dense(softmax)
-•	Training: 5 epochs, categorical cross-entropy, Adam optimizer
+•	Training: 5 epochs, categorical cross-entropy, Adam optimizer.
 •	Evaluation:
   o	Tracked training time
   o	Plotted training and validation accuracy/loss
